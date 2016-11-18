@@ -1,2 +1,2 @@
-# hello-worl
+# hello-world
 First foray into git/GitHub
